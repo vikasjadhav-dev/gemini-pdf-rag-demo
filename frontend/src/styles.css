@@ -1,0 +1,9 @@
+body { font-family: system-ui, sans-serif; background: #f6f7f9; color: #1c1e21; margin: 0; }
+main { max-width: 640px; margin: 40px auto; padding: 0 16px; }
+section { background: #fff; border-radius: 8px; padding: 16px; margin-bottom: 16px; box-shadow: 0 1px 3px rgba(0,0,0,.1); }
+input[type="text"] { width: calc(100% - 90px); padding: 8px; margin-right: 8px; box-sizing: border-box; }
+button { padding: 8px 14px; cursor: pointer; }
+.answer { margin-top: 16px; white-space: pre-wrap; }
+.answer small { color: #65676b; }
+.ok { color: #1a7f37; }
+.error { color: #c62828; }
